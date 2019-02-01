@@ -1,0 +1,45 @@
+#ss{
+    color: white;
+}
+.col-sm-5{
+    font-size: 30px;
+    color: midnightblue;
+    margin-left:40%;
+}
+.col-sm-4{
+    color: midnightblue;
+    font-size: 25px;
+    margin-right: 70%;
+}
+.col-md-12 {
+    font-size: 23px;
+}
+.container {
+    background-color: lavender;
+    border-radius: 50px;
+}
+.col-sm-6{
+    color: #222222;
+    margin-left: 15px;
+}
+
+input{
+    border-radius: .3em;
+}
+.style{
+    border-color: #8c8b8b;
+
+}
+a{
+    cursor: pointer;
+}
+.style{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.line{
+    background-color: #00aced;
+}
